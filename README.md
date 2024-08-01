@@ -1,6 +1,6 @@
 # Travelling Vendor Data
 
-A Rust Plugin that reads out the Data behind the offers of the Travelling Vendor to a JSON file.
+A small Rust Plugin that reads out the Data behind the offers of the Travelling Vendor to a JSON file.
 
 The plugin will first attempt to find the Vendor on the Map, spawning it in if it doesnt exist.
 The data will then be saved to the `TravellingVendorData` Folder in the Rust Server Directory.
