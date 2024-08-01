@@ -13,7 +13,7 @@ The data will then be saved to the `TravellingVendorData` Folder in the Rust Ser
   "orders": [
     {
       "forSale": {
-        "shortName": "Supply Signal",
+        "shortName": "Jackhammer",
         "amount": 1,
         "isBlueprint": false
       },
@@ -24,12 +24,12 @@ The data will then be saved to the `TravellingVendorData` Folder in the Rust Ser
       },
       "refillDelay": 10.0,
       "randomDetails": {
-        "weight": 0.03,
-        "minPrice": 1000,
-        "maxPrice": 2000,
-        "veryLowPriceChance": 0.05,
-        "veryLowPriceMin": 600,
-        "veryLowPriceMax": 800
+        "weight": 0.05,
+        "minPrice": 80,
+        "maxPrice": 120,
+        "veryLowPriceChance": 0.2,
+        "veryLowPriceMin": 40,
+        "veryLowPriceMax": 60
       }
     },
     ...
