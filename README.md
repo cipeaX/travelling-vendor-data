@@ -36,3 +36,4 @@ The data will then be saved to the `TravellingVendorData` Folder in the Rust Ser
   ]
 }
 ```
+Credit to hoppel / RustHelp for the JSON saving functionality.
